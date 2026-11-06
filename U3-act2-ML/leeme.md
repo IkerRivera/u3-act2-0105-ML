@@ -1,2 +1,6 @@
-## resultados primera parte 
-![alt text](image-2.png)
+
+
+
+
+### resultados primera parte 
+![alt text](image.png)
